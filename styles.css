@@ -1,0 +1,18 @@
+.subject{
+          text-align: center;
+        }
+
+
+.bigline{
+    color: black;
+    border-inline: 100px;
+}
+#pictures {
+    display: flex;
+    justify-content: center;
+}
+ 
+
+
+
+
